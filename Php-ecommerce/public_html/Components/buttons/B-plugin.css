@@ -1,0 +1,15 @@
+#login-b{
+    font-weight: 300;
+    background-color: WHITE;
+    border-radius: 30%;
+    border: 0;
+    border-style: solid;
+    margin-top:3px ;
+    margin-left:330px ;
+}
+#js{
+    display: flex;
+    position: absolute;
+    left: 800px;
+    background-color: red;
+}

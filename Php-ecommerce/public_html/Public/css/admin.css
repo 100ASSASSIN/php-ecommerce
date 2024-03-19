@@ -1,0 +1,30 @@
+h2{
+  position: absolute;
+  top: 80px;
+  left: 5%;
+}
+
+.btn {
+  color: black;
+text-decoration: none;
+padding: 0.5rem;
+border-radius: 10px;
+border: 1px solid #333333;
+}
+#log {
+  padding: auto;
+  border-radius: 20px;
+  background-image: url("https://c4.wallpaperflare.com/wallpaper/485/547/586/kratos-god-of-war-4-god-of-war-games-wallpaper-preview.jpg");
+  background-size: cover;
+  height:40%;
+  width: 50%;
+      color: black;
+      position: absolute;
+      top: 150px;
+      left: 5%;
+  }
+#child{
+  padding: 20px;
+color: white;
+
+}

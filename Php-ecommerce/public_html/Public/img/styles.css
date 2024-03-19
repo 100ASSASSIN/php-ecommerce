@@ -1,0 +1,26 @@
+/* Add your styling for the loading spinner here */
+#loading {
+    display: none;
+    width: 50px;
+    height: 50px;
+    border: 5px solid #f3f3f3;
+    border-top: 5px solid #3498db;
+    border-radius: 50%;
+    margin: 20px auto;
+    animation: spin 1s linear 3s infinite; /* Added a 2-second delay before the animation starts */
+}
+
+@keyframes spin {
+    0% { transform: rotate(0deg); }
+    100% { transform: rotate(360deg); }
+}
+
+.hidden {
+    display: none;
+}
+
+/* Additional styles for a scrollbar (optional) */
+body {
+    height: 150vh; /* Ensures scrollbar appears for demo purposes */
+    overflow-y: scroll;
+}

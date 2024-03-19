@@ -1,0 +1,29 @@
+#zoomC {
+  /* (A) DIMENSIONS */
+  width: 450px;
+  height: 460px;
+  position: absolute;
+  top: 150px;
+  left: 40px;
+  display: flex;
+  border-radius: 2px;
+
+  /* (B) BACKGROUND IMAGE */
+  background: url("/Public/img/img1.jpg");
+  background-position: center;
+  background-size: cover;
+}
+.spc {
+  padding-left: 550px;
+  padding-top: 150px;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  font-size: larger;
+  font-weight: bolder;
+}
+.spc1 {
+  display: flex;
+  position: absolute;
+  top: 700px;
+  left: 30px;
+}
+
