@@ -1,6 +1,8 @@
 # php-ecommerce
 php-ecommerce-core
-![WhatsApp Image 2024-0422-15 at 2 50 26 AM](https://github.com/100ASSASSIN/php-ecommerce/assets/127267168/c4b4c39b-3890-4b0f-978f-624bde46f6f2)
+![WhatsApp Image 2024-0422-15 at 2 50 26 AM](https://github.com/100ASSASSIN/php-ecommerce/assets/127267168/c4b4c39b-3890-4b0f-978f-624bde46f6f2)![Screenshot from 2024-04-18 19-37-41](https://github.com/100ASSASSIN/php-ecommerce/assets/127267168/53110f89-9347-47b5-a3a9-21dd19e661d3)
+![Screenshot from 2024-04-18 19-37-33](https://github.com/100ASSASSIN/php-ecommerce/assets/127267168/ed4b1b9f-1c57-4235-9e92-fe8930b89daa)
+
 ![WhatsApp Image 2024-04-15 at 2 50 ds26 AM](https://github.com/100ASSASSIN/php-ecommerce/assets/127267168/56082e9d-12f7-4f1b-927b-75f66dab3a84)
 ![WhatsApp Image 2024-04-15 at 2 50 26 AM](https://github.com/100ASSASSIN/php-ecommerce/assets/127267168/ff774c68-a611-425c-b22b-83d3e3968689)
 ![432432432](https://github.com/100ASSASSIN/php-ecommerce/assets/127267168/6fd9e391-c87f-47e0-b73c-a28c5b921694)
